@@ -41,3 +41,4 @@ cd
 ./start-linux.sh
 
 Instale o Termux-X11:
+link:https://github.com/termux/termux-x11/releases/download/nightly/lorie-app-debug.apk
