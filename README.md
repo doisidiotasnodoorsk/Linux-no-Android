@@ -1,4 +1,4 @@
-# Linux-no-Android
+-# Linux-no-Android
 Linux no Android usando apenas o Termux⭐
 
 Ativeas Opções de Desenvolvedor, e ative mais de 2(dois) processos.
@@ -26,3 +26,18 @@ cd linux-android
 chmod +x script-termux.sh
 
 ./script-termux.sh
+
+ESCOLHA SEU DESKTOP:
+
+1)XFCE4 (recomendado)
+2)LXQt (leve)
+3)MATE (médio)
+4)KDE (pesado)
+
+Após a instalação, digite:
+
+cd
+
+./start-linux.sh
+
+Instale o Termux-X11:
